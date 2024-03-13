@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>О теннисе</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Большой теннис</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Общая информация</a></li>
+                <li><a href="rules.html">Правила</a></li>
+                <li><a href="legends.html">Легенды</a></li>
+                <li><a href="Daria.html">Даша</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+    <h2>Даша</h2>
+    <p>Я - Легенда</p>
+</main>
+
+
+    <footer>
+        &copy; 2024 My Website
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
